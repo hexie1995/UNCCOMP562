@@ -1,0 +1,4 @@
+1. all roc curve just as it is 
+2. minus the roc from that very row
+3. ij + ji - i - j
+4. ij + ji * 0.5 other than kk
